@@ -6,12 +6,13 @@ Convert CSV trade files from common Crypto exchanges to a normalized CSV / ODS f
 
 A simplistic series of importers that can be used to normalize transactions from common exchanges.
 
-## Supported Exchanges
+### Supported Exchanges
 
 * Coinbase & Coinbase Pro
 * Kraken.com
 * BitMart.com
 * Binance.US
+... add yours here!  Help us out by contributing.
 
 ## Usage
 
@@ -21,7 +22,10 @@ Tbd
 
 We need importers for various exchanges!  Help us out by contributing.
 
-## Roadmap
+### Roadmap
 
 It would be nice to support public transactions from wallet addresses.
 
+## License
+
+MIT License, See [LICENSE](LICENSE)
