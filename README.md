@@ -2,25 +2,26 @@
 
 Convert CSV trade files from common Crypto exchanges to a normalized CSV / ODS file for use with [eprbell/rp2](https://github.com/eprbell/rp2/) for tax reporting.
 
-# Purpose
+## Purpose
 
 A simplistic series of importers that can be used to normalize transactions from common exchanges.
 
-# Usage
-
-Tbd
-
-# Contributing
-
-We need importers for various exchanges!  Help us out by contributing.
-
-# Roadmap
-
-It would be nice to support public transactions from wallet addresses.
-
-# Supported Exchanges
+## Supported Exchanges
 
 * Coinbase & Coinbase Pro
 * Kraken.com
 * BitMart.com
 * Binance.US
+
+## Usage
+
+Tbd
+
+## Contributing
+
+We need importers for various exchanges!  Help us out by contributing.
+
+## Roadmap
+
+It would be nice to support public transactions from wallet addresses.
+
