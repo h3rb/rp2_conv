@@ -2,6 +2,7 @@
 
 * output.csv
 * output.odt
+* output_config.json
 
 2. A series of log files, if warnings or errors occurred, named after each importer / import data folder, e.g.:
 
