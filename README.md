@@ -12,7 +12,7 @@ A simplistic series of importers that can be used to normalize transactions from
 * Kraken.com
 * BitMart.com
 * Binance.US
-... add yours here!  Help us out by contributing.
+* ... add yours here!  Help us out by contributing.
 
 ## Usage
 
