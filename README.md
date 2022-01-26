@@ -1,4 +1,4 @@
-# rp2-conv
+# rp2_conv
 
 Convert CSV trade files from common Crypto exchanges to a normalized CSV / ODS file for use with [eprbell/rp2](https://github.com/eprbell/rp2/) for tax reporting.
 
